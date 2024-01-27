@@ -7,3 +7,7 @@
 ## Pràctica
 
 - [Practica - Fèlix Arribas](https://github.com/felixarpa/CAP-Practica)
+
+## Pràctica 23/24 Q1
+
+- [Pràctica Catch Throw amb continuacions] (https://github.com/AdrianContre/CatchThrowWithContinuations)
